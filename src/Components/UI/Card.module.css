@@ -1,0 +1,8 @@
+.card {
+    padding: 1rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+    border-radius: 14px;
+    background: url(https://img.freepik.com/free-vector/decorative-pink-mandala-white-background_1035-25426.jpg?w=740&t=st=1699168808~exp=1699169408~hmac=5712a23e202f0b3d1e7fb6976b83bcfa94f70feb3ce7e170e2ef373fe71042bc);
+    object-fit: cover;
+    object-position: center;
+  }
